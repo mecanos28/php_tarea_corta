@@ -1,6 +1,6 @@
 # php_tarea_corta
 
-Creación de una base de datos de direcciones orientada a archivos
+Creación de una base de datos de direcciones orientada a archivo, en la carpeta BD podemos ver la misma aplicación pero usando Adodb
 
 
 
