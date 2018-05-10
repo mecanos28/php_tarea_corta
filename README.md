@@ -8,4 +8,4 @@ en la carpeta BD podemos ver la misma aplicación pero usando Adodb, para correr
 
 Universidad de Costa Rica
 Desarrollo de aplicaciones para Internet - 1-2018
-CI2413 - Braulio Solano Rojas
+CI2413 - Profesor del curso: Braulio Solano Rojas
