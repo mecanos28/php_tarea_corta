@@ -2,7 +2,7 @@
 
 Creación de una base de datos de direcciones orientada a archivos
 
-en la carpeta BD podemos ver la misma aplicación pero usando Adodb
+en la carpeta BD podemos ver la misma aplicación pero usando Adodb, para correr esto es necesario instalar composer y correr composer require adodb/adodb-php a la altura del index.php
 
 
 
